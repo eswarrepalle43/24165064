@@ -1,6 +1,7 @@
 
 ## Author
 Repalle Eswar Venkat
+
 Student ID: 24165064
 # One-Class SVM for Image Anomaly Detection
 ##Do Machine Learning Models Understand Images or Just Pixel Patterns?
